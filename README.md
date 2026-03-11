@@ -246,6 +246,6 @@ python src/main.py
 
 # Autor
 
-Vinícius Ramos
-Estudante de Ciência da Computação
+Vinícius Ramos, estudante de Ciência da Computação
+
 
