@@ -216,7 +216,36 @@ A escolha por uma aplicação desktop permite:
 
 ---
 
+## Como executar o projeto
+
+1. Clone o repositório:
+
+```
+git clone https://github.com/viniesr/finsys.git
+```
+
+2. Entre na pasta do projeto:
+
+```
+cd finsys
+```
+
+3. Instale as dependências:
+
+```
+pip install -r requirements.txt
+```
+
+4. Execute o sistema:
+
+```
+python src/main.py
+```
+
+---
+
 # Autor
 
 Vinícius Ramos
 Estudante de Ciência da Computação
+
