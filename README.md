@@ -181,16 +181,6 @@ O funcionamento básico do FinSys segue o fluxo abaixo:
 
 ---
 
-# Módulo adicional (opcional)
-
-O sistema também possui um módulo adicional voltado para **registro de serviços e geração de romaneios em PDF**.
-
-Esse módulo foi desenvolvido para atender uma necessidade específica de uma empresa de transportes, permitindo registrar serviços realizados e gerar documentos de cobrança.
-
-Atualmente esse módulo não é o foco principal do projeto, mas demonstra a capacidade de expansão da aplicação.
-
----
-
 # Funcionalidades planejadas
 
 Algumas melhorias planejadas incluem:
